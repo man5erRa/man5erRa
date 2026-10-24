@@ -41,4 +41,4 @@ I am an Information Systems & Programming student deeply invested in low-level d
 
 ### 📬 Connect with Me
 *   **Discord:** `man5erra`
-*   **TryHackMe Profile:** [man5erRa](https://tryhackme.com/p/man5erRa)]
+*   **TryHackMe Profile:** [man5erRa](https://tryhackme.com/p/man5erRa)
