@@ -1,9 +1,7 @@
 # Hi, I'm Anton Bobrov (man5erRa) 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="Location"/>
-  <img src="https://shields.io" alt="Focus"/>
-</p>
+**📌 Location:** Russia (UTC +3)  
+**🎯 Focus:** Hardware Security / Reverse Engineering / Embedded Development
 
 I am an Information Systems & Programming student deeply invested in low-level development, security research, and hardware-software interaction. My goal is to build a solid career at the intersection of defensive engineering and hardware security.
 
@@ -25,26 +23,19 @@ I am an Information Systems & Programming student deeply invested in low-level d
 ### 🛠️ Tech Stack & Skills
 
 *   **Languages & Architecture:**  
-    ![C](https://shields.io) ![Assembly](https://shields.io)
+    `C` | `Assembly (x86/ARM)`
+
+*   **Hardware & Ecosystems:**  
+    `STM32 (Nucleo-F411RE)`
 
 *   **Theoretical Foundations:**  
     `Basic Electronics & Hardware Fundamentals` | `Calculus (Mathematical Analysis)` | `Computer Architecture (From Scratch)`
-
 ---
 
 ### 🌐 Languages
 *   🇷🇺 **Russian:** Native
 *   🇬🇧 **English:** B1 (Intermediate)
 *   🇷🇸 **Serbian:** A1 (Beginner)
-
----
-
-### 📊 GitHub Activity & Insights
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180"/>
-</p>
 
 ---
 
